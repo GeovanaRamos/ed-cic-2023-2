@@ -1,5 +1,5 @@
-# Estrutura de Dados - CIC/UNB
-Material complementar para a disciplina de Estrutura de Dados.
+# Estruturas de Dados - CIC/UNB
+Material complementar para a disciplina de Estruturas de Dados.
 
 ## Revisão de APC
 
